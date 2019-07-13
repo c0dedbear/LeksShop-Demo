@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		B34A548722D758D30006DFA0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B34A548622D758D30006DFA0 /* AppDelegate.swift */; };
 		B34A548C22D758D30006DFA0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B34A548A22D758D30006DFA0 /* Main.storyboard */; };
-		B34A548E22D758D70006DFA0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B34A548D22D758D70006DFA0 /* Assets.xcassets */; };
 		B34A549122D758D70006DFA0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B34A548F22D758D70006DFA0 /* LaunchScreen.storyboard */; };
 		B34A54A022D75D880006DFA0 /* UIViewController + NavigationBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = B34A549F22D75D880006DFA0 /* UIViewController + NavigationBar.swift */; };
 		B34A54A522D7680A0006DFA0 /* VehiclesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B34A54A422D7680A0006DFA0 /* VehiclesViewController.swift */; };
@@ -29,13 +28,13 @@
 		B34B98B322D9DC4F00C1608B /* AnimatedTabBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B34B98B222D9DC4F00C1608B /* AnimatedTabBarController.swift */; };
 		B34B98B522D9FB6000C1608B /* OrderDataManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = B34B98B422D9FB6000C1608B /* OrderDataManager.swift */; };
 		B34B98B922DA8ABA00C1608B /* DetailViewController + AnimationOrdering.swift in Sources */ = {isa = PBXBuildFile; fileRef = B34B98B822DA8ABA00C1608B /* DetailViewController + AnimationOrdering.swift */; };
+		B3965ADD22DA94CE00726130 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B3965ADC22DA94CE00726130 /* Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		B34A548322D758D30006DFA0 /* LeksShop.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LeksShop.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B34A548622D758D30006DFA0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B34A548B22D758D30006DFA0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		B34A548D22D758D70006DFA0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B34A549022D758D70006DFA0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B34A549222D758D70006DFA0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B34A549F22D75D880006DFA0 /* UIViewController + NavigationBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIViewController + NavigationBar.swift"; sourceTree = "<group>"; };
@@ -56,6 +55,7 @@
 		B34B98B222D9DC4F00C1608B /* AnimatedTabBarController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimatedTabBarController.swift; sourceTree = "<group>"; };
 		B34B98B422D9FB6000C1608B /* OrderDataManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderDataManager.swift; sourceTree = "<group>"; };
 		B34B98B822DA8ABA00C1608B /* DetailViewController + AnimationOrdering.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "DetailViewController + AnimationOrdering.swift"; sourceTree = "<group>"; };
+		B3965ADC22DA94CE00726130 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -121,7 +121,7 @@
 		B34A549A22D7590C0006DFA0 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				B34A548D22D758D70006DFA0 /* Assets.xcassets */,
+				B3965ADC22DA94CE00726130 /* Assets.xcassets */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -238,7 +238,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B34A549122D758D70006DFA0 /* LaunchScreen.storyboard in Resources */,
-				B34A548E22D758D70006DFA0 /* Assets.xcassets in Resources */,
+				B3965ADD22DA94CE00726130 /* Assets.xcassets in Resources */,
 				B34A548C22D758D30006DFA0 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
