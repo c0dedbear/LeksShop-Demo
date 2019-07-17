@@ -1,5 +1,5 @@
 //
-//  UITableView + EmtyView
+//  UITableView + EmptyView
 //  
 //
 //  Created by Михаил Медведев on 04/07/2019.

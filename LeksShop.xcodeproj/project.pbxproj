@@ -15,7 +15,7 @@
 		B34A54A722D7683D0006DFA0 /* OrderTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B34A54A622D7683D0006DFA0 /* OrderTableViewController.swift */; };
 		B34A54A922D7686D0006DFA0 /* WheelsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B34A54A822D7686D0006DFA0 /* WheelsTableViewController.swift */; };
 		B34A54AB22D76D910006DFA0 /* DetailWheelViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B34A54AA22D76D910006DFA0 /* DetailWheelViewController.swift */; };
-		B34A54B122D772A40006DFA0 /* UITableView + EmtyView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B34A54B022D772A40006DFA0 /* UITableView + EmtyView.swift */; };
+		B34A54B122D772A40006DFA0 /* UITableView + EmptyView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B34A54B022D772A40006DFA0 /* UITableView + EmptyView.swift */; };
 		B34A54B422D7737D0006DFA0 /* URL + Extention.swift in Sources */ = {isa = PBXBuildFile; fileRef = B34A54B322D7737D0006DFA0 /* URL + Extention.swift */; };
 		B34A54B722D773AD0006DFA0 /* NetworkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = B34A54B522D773AD0006DFA0 /* NetworkManager.swift */; };
 		B34A54B822D773AD0006DFA0 /* CellManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = B34A54B622D773AD0006DFA0 /* CellManager.swift */; };
@@ -42,7 +42,7 @@
 		B34A54A622D7683D0006DFA0 /* OrderTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderTableViewController.swift; sourceTree = "<group>"; };
 		B34A54A822D7686D0006DFA0 /* WheelsTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WheelsTableViewController.swift; sourceTree = "<group>"; };
 		B34A54AA22D76D910006DFA0 /* DetailWheelViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailWheelViewController.swift; sourceTree = "<group>"; };
-		B34A54B022D772A40006DFA0 /* UITableView + EmtyView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UITableView + EmtyView.swift"; sourceTree = "<group>"; };
+		B34A54B022D772A40006DFA0 /* UITableView + EmptyView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UITableView + EmptyView.swift"; sourceTree = "<group>"; };
 		B34A54B322D7737D0006DFA0 /* URL + Extention.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "URL + Extention.swift"; sourceTree = "<group>"; };
 		B34A54B522D773AD0006DFA0 /* NetworkManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NetworkManager.swift; sourceTree = "<group>"; };
 		B34A54B622D773AD0006DFA0 /* CellManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CellManager.swift; sourceTree = "<group>"; };
@@ -164,7 +164,7 @@
 			children = (
 				B34B98B822DA8ABA00C1608B /* DetailViewController + AnimationOrdering.swift */,
 				B34B98AE22D8E8D200C1608B /* OrderTableViewCell.swift */,
-				B34A54B022D772A40006DFA0 /* UITableView + EmtyView.swift */,
+				B34A54B022D772A40006DFA0 /* UITableView + EmptyView.swift */,
 				B34A549F22D75D880006DFA0 /* UIViewController + NavigationBar.swift */,
 			);
 			path = View;
@@ -258,7 +258,7 @@
 				B34A54BC22D7855F0006DFA0 /* Vehicle.swift in Sources */,
 				B34A54C022D788F60006DFA0 /* Order.swift in Sources */,
 				B34B98B122D9144B00C1608B /* Array + Extentions.swift in Sources */,
-				B34A54B122D772A40006DFA0 /* UITableView + EmtyView.swift in Sources */,
+				B34A54B122D772A40006DFA0 /* UITableView + EmptyView.swift in Sources */,
 				B34A54B422D7737D0006DFA0 /* URL + Extention.swift in Sources */,
 				B34B98B322D9DC4F00C1608B /* AnimatedTabBarController.swift in Sources */,
 				B34A54BA22D783880006DFA0 /* Wheel.swift in Sources */,
